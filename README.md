@@ -7,6 +7,6 @@ Gender wise analysis
 Country wise gender analysis
 Gender medal counts based on percetage of year total
 Year wise count of sports
-Running totals by sports, of athelets and number of records
+Running totals by sports , of athelets and number of records
 
 Then at last there is a dashboard.
